@@ -1,0 +1,20 @@
+{
+  "name": "website-template",
+  "title": "Website template with Bootstrap/jQuery/ArcGIS/Grunt",
+  "version": "0.0.1",
+  "author": {
+    "name": "VESTRA Resources, Inc"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyledunaway/website-template.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0"
+  }
+}
